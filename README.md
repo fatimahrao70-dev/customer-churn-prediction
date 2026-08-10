@@ -3,6 +3,7 @@ Customer Churn Prediction System
 A machine learning web application that predicts whether a customer is likely to churn and provides a churn probability.
 
 🔗 Live Demo
+Demo video link:https://docs.google.com/presentation/d/1QS9wBdvuzCYXuyXn9lbndjnGPQULHbdH/edit?usp=sharing&ouid=109526713221239272816&rtpof=true&sd=true
 
 Live Application: https://famtimah.pythonanywhere.com/
 
